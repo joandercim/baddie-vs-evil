@@ -1,0 +1,14 @@
+.container {
+    width: 768px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.right {
+    text-align: right;
+}
+
+p {
+    margin: 0;
+}
